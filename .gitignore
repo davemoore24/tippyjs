@@ -2,4 +2,6 @@
 node_modules
 .cache
 coverage
+dist
 tests/visual/dist
+package-lock.json

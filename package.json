@@ -1,6 +1,6 @@
 {
   "name": "tippy.js",
-  "version": "3.0.0-alpha.3",
+  "version": "3.0.0-beta.0",
   "description": "Vanilla JS Tooltip Library",
   "main": "dist/tippy.all.js",
   "module": "dist/esm/tippy.js",
@@ -69,7 +69,7 @@
     "postcss": "^5.2.18",
     "postcss-cssnext": "^3.1.0",
     "postcss-import": "^11.1.0",
-    "prettier": "^1.13.5",
+    "prettier": "^1.14.2",
     "prismjs": "^1.15.0",
     "rollup": "^0.55.5",
     "rollup-plugin-babel": "^2.7.1",
@@ -79,7 +79,8 @@
     "rollup-plugin-json": "^2.3.1",
     "rollup-plugin-node-resolve": "^3.2.0",
     "rollup-plugin-sass": "^0.4.10",
-    "rollup-plugin-strip": "^1.1.1"
+    "rollup-plugin-strip": "^1.1.1",
+    "twemoji": "^11.0.1"
   },
   "dependencies": {
     "popper.js": "^1.14.4"
